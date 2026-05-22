@@ -1,6 +1,6 @@
 # GPTFX-Mental-Health-Detection
-A GPT-3 based explainable AI framework for mental health detection using textual analysis and human-readable explanations.
-Overview
+
+-->Overview
 GPTFX is a GPT-3 based explainable AI framework designed for mental health detection using textual analysis. The system identifies possible mental health conditions from user-generated text and provides human-readable explanations for predictions.
 
 -->Features
