@@ -172,13 +172,19 @@ https://gptfx-mental-health-detection-1.onrender.com/
 
 ## Application Preview
 
-Add screenshots of the application here.
+### Home Page
 
-```markdown
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Homepage.png)
 
-![Dashboard](screenshots/dashboard.png)
-```
+### Login Page
+
+![Login Page](screenshots/Loginpage.png)
+
+### Prediction Result Page
+
+![Prediction Result Page](screenshots/Resultpage.png)
+
+---
 
 ---
 
