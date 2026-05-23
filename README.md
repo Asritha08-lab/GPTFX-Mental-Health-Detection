@@ -197,4 +197,6 @@ Asritha Nalubala
 
 ## License
 
-This project is licensed under the MIT License.
+All Rights Reserved.
+
+This project and its source code may not be copied, modified, or distributed without permission from the author.
